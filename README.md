@@ -1,1 +1,1 @@
-`node index.js` pour lancer le programmer
+`node index.js`
